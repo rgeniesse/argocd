@@ -17,4 +17,4 @@ spec:
       - image: fiscalcon/python-app:latest
         name: python-app
         ports:
-        - containerPort: 8081
+        - containerPort: 5000
