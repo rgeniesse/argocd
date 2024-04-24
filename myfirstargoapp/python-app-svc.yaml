@@ -4,7 +4,7 @@ metadata:
   name: python-app
 spec:
   ports:
-  - port: 81
-    targetPort: 81
+  - port: 80
+    targetPort: 8081
   selector:
     app: python-app
